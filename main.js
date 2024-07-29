@@ -317,7 +317,7 @@ function loadIntroText() {
       new THREE.MeshPhongMaterial({ color: 0x171f27, flatShading: true }),
       new THREE.MeshPhongMaterial({ color: 0xffffff }),
     ];
-    const titleGeo = new TextGeometry('Leonardo "JLeo" Martins', {
+    const titleGeo = new TextGeometry('JLeo Martins', {
       font: font,
       size: 0.08,
       height: 0.01,
@@ -334,7 +334,7 @@ function loadIntroText() {
       new THREE.MeshPhongMaterial({ color: 0xffffff }),
     ];
     const subTitleGeo = new TextGeometry(
-      'Desenvolvedor em Realidade Estendida (Realidade Virtual / Aumentada / Mista',
+      'Desenvolvedor em Realidade Estendida (VR / AR / MR)',
       {
         font: font,
         size: 0.018,
