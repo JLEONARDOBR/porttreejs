@@ -29,19 +29,19 @@ let clipNames = [
 let projects = [
   {
     image: 'textures/project-spaze.webp',
-    url: 'https://www.spaze.social/',
+    url: 'https://www.jleo.com.br/',
   },
   {
     image: 'textures/project-myteachers.jpg',
-    url: 'https://myteachers.com.au/',
+    url: 'https://www.jleo.com.br/',
   },
   {
     image: 'textures/project-wholesale.jpg',
-    url: 'https://wholesale.com.np/',
+    url: 'https://www.jleo.com.br/',
   },
   {
     image: 'textures/project-pelotero.jpg',
-    url: 'https://www.peloterosenlaweb.com/',
+    url: 'https://www.jleo.com.br/',
   },
 ];
 let aboutCameraPos = {
